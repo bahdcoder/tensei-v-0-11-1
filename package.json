@@ -14,6 +14,7 @@
     "typescript": "^4.3.5"
   },
   "dependencies": {
+    "@mikro-orm/postgresql": "^4.5.10",
     "@mikro-orm/sqlite": "^4.5.10",
     "@tensei/auth": "^0.11.1",
     "@tensei/cms": "^0.11.1",
